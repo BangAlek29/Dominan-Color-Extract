@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from PIL import Image
+import cv2
 from sklearn.cluster import KMeans
 from collections import Counter
 import hashlib
